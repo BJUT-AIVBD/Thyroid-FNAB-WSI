@@ -1,5 +1,5 @@
 # Thyroid-FNAB-WSI
-This repository provides a dataset of short videos about homogeneous content.
+This repository provides a dataset of Thyroid-FNAB-WSI.
 ![image](https://github.com/BJUT-AIVBD/Thyroid-FNAB-WSI/blob/main/Fig1.png)
 
 ## Introduction
